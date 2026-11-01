@@ -1,0 +1,7 @@
+streamlit>=1.40
+supabase>=2.9
+google-genai>=1.0
+shapely>=2.0
+requests>=2.32
+python-dotenv>=1.0
+pandas>=2.2
